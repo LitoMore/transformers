@@ -1,6 +1,6 @@
 # Transformers
 
-List of Transformers toys already own
+List of Transformers toys I already own
 
 ## Black Mamba
 
@@ -37,3 +37,7 @@ List of Transformers toys already own
 
 - [M-04](https://www.youtube.com/watch?v=QSQQn0l-dAM) - Brawl
 - [M-05](https://www.youtube.com/watch?v=_Ith1_tttPg) - Blackout (KO [SS-08](https://tfwiki.net/wiki/Blackout_(Movie)#Generations))
+
+## Related
+
+- [Games](https://github.com/LitoMore/games) - List of video games I already own
