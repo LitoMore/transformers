@@ -16,8 +16,8 @@ List of Transformers toys I already own
 - [SS-32](https://tfwiki.net/wiki/Optimus_Prime_(Movie)/toys#SS32) - Optimus Prime (Transformers)
 - [SS-34](https://tfwiki.net/wiki/Megatron_(Movie)/toys#SS34) - Megatron (Dark of the Moon)
 - [SS-35](https://tfwiki.net/wiki/Jetfire_(Movie)#Generations) - Jetfire (Revenge of the Fallen)
-- [SS-37](https://tfwiki.net/wiki/Rampage_(ROTF)#Generations) - Rampage
-- [SS-42](https://tfwiki.net/wiki/Long_Haul_(ROTF)#Generations) - Long Haul
+- [SS-37](https://tfwiki.net/wiki/Rampage_(ROTF)#Generations) - Rampage (Revenge of the Fallen)
+- [SS-42](https://tfwiki.net/wiki/Long_Haul_(ROTF)#Generations) - Long Haul (Revenge of the Fallen)
 - [SS-47](https://tfwiki.net/wiki/Hightower_(ROTF)#Generations) - Hightower (Revenge of the Fallen)
 - [SS-53](https://tfwiki.net/wiki/Mixmaster_(ROTF)#Generations) - Mixmaster (Revenge of the Fallen)
 - [SS-55](https://tfwiki.net/wiki/Scavenger_(ROTF)#Generations) - Scavenger (Revenge of the Fallen)
@@ -40,4 +40,5 @@ List of Transformers toys I already own
 
 ## Related
 
-- [Games](https://github.com/LitoMore/games) - List of video games I already own
+- [Games](https://github.com/LitoMore/games) - My video games
+- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
