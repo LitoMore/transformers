@@ -1,6 +1,6 @@
-# Transformers
+<h1 align="center">Transformers</h1>
 
-List of Transformers toys I already own
+<p align="center">List of Transformers toys I already own</p>
 
 ## Black Mamba
 
