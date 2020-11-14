@@ -7,6 +7,7 @@
 - [LS-02](https://www.youtube.com/watch?v=Q8pcD1rxkAA) - Barricade (KO [MPM-05](https://tfwiki.net/wiki/File:TF-Masterpiece-MPM-5-Barricade-(Hasbro).jpg))
 - [LS-03](https://www.youtube.com/watch?v=MgYXxRcSAtU) - Optimus Prime (KO [MPM-04](https://tfwiki.net/wiki/Optimus_Prime_(Movie)/toys#Masterpiece))
 - [LS-07](https://www.youtube.com/watch?v=9ajwMK-O6c4) - Weaponeer
+- [LS-08](https://www.youtube.com/watch?v=uyfEne_CZVo) - Sideswipe
 - [LS-18](https://www.youtube.com/watch?v=PahYOhOHh3o) - Silver Phantom (KO [MPM-09](https://tfwiki.net/wiki/Jazz_(Movie)#Masterpiece))
 
 ## Studio Series
