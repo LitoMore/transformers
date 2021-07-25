@@ -41,6 +41,13 @@
 - [M-04](https://www.youtube.com/watch?v=QSQQn0l-dAM) - Brawl
 - [M-05](https://www.youtube.com/watch?v=_Ith1_tttPg) - Blackout (KO [SS-08](https://tfwiki.net/wiki/Blackout_(Movie)#Generations))
 
+## Non-Transformers
+
+### BEATSBOX
+
+- [BB-27](https://acg.78dm.net/ct/351814.html) - TOXICHORN
+- [BB-32](https://acg.78dm.net/ct/355188.html) - DEMON DART
+
 ## Related
 
 - [Games](https://github.com/LitoMore/games) - My video games
