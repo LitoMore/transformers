@@ -56,3 +56,4 @@
 
 - [Games](https://github.com/LitoMore/games) - My video games
 - [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
+- [Tamiya Toys](https://github.com/LitoMore/tamiya-toys) - My Tamiya toys
